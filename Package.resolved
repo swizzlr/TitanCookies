@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Titan",
+        "repositoryURL": "https://github.com/bermudadigitalstudio/Titan.git",
+        "state": {
+          "branch": null,
+          "revision": "b51bcbe934008aca0f2ab9ef90d4fff75db380ab",
+          "version": "0.8.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
